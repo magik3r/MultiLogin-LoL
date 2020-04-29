@@ -10,7 +10,7 @@
 SetBatchLines -1
 SendMode Input
 SetWorkingDir %A_ScriptDir% 
-
+#Include %A_ScriptDir%\lib
 #Include Class_CustomFont.ahk
 font1 := New CustomFont("abduction2002.ttf")
 #Include ControlColor.ahk
