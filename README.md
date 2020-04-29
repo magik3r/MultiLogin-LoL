@@ -1,5 +1,5 @@
 # MultiLogin for LoL
-An AutoHotKey script for quickly logging with multiple accounts
+A light AutoHotKey script for quickly logging with multiple accounts
 
 **Function:**  
 You choose an account from the list in the gui -> click login and let the script do the rest  
