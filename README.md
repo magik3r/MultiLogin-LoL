@@ -4,7 +4,7 @@ A light AutoHotKey script for quickly logging with multiple accounts
 **Function:**  
 You choose an account from the list in the gui -> click login and let the script do the rest  
 The script uses the details you have provided in the "users.txt" file  
-*The LoL client can be running already but does not have to be, the script will detect it by itself and launch the application if necessary.*  
+*The LoL client can be running prior to launching the script but does not have to, the script will detect it by itself and launch the application if necessary.*  
 
 **Usage:**  
 AutoHotKey is required to be installed to run this script. 
